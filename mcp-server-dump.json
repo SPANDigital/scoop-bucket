@@ -1,0 +1,22 @@
+{
+    "version": "1.17.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/SPANDigital/mcp-server-dump/releases/download/v1.17.0/mcp-server-dump_Windows_x86_64.zip",
+            "bin": [
+                "mcp-server-dump.exe"
+            ],
+            "hash": "783a8839fc51575c58cb1b9cf3d474cb59d886a1d3e30f5b2b1e5eb72f8521d6"
+        },
+        "arm64": {
+            "url": "https://github.com/SPANDigital/mcp-server-dump/releases/download/v1.17.0/mcp-server-dump_Windows_arm64.zip",
+            "bin": [
+                "mcp-server-dump.exe"
+            ],
+            "hash": "5e0481909d4633a52e329ad314ae988b524deda78b2b7fde9cd2f497a279c1be"
+        }
+    },
+    "homepage": "https://github.com/spandigital/mcp-server-dump",
+    "license": "MIT",
+    "description": "Extract and document MCP server capabilities in various formats"
+}
