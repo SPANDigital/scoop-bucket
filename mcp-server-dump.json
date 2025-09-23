@@ -1,19 +1,19 @@
 {
-    "version": "1.23.0",
+    "version": "1.23.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/SPANDigital/mcp-server-dump/releases/download/v1.23.0/mcp-server-dump_Windows_x86_64.zip",
+            "url": "https://github.com/SPANDigital/mcp-server-dump/releases/download/v1.23.1/mcp-server-dump_Windows_x86_64.zip",
             "bin": [
                 "mcp-server-dump.exe"
             ],
-            "hash": "2c7df4cf1c879bc00e864421b877a856c69bed0b3597a3e8a32fa4f91ebae9d4"
+            "hash": "c40c0b8ccbfba62c6cefd5a132da9b36d2551cd78f668bbfa83f250319303858"
         },
         "arm64": {
-            "url": "https://github.com/SPANDigital/mcp-server-dump/releases/download/v1.23.0/mcp-server-dump_Windows_arm64.zip",
+            "url": "https://github.com/SPANDigital/mcp-server-dump/releases/download/v1.23.1/mcp-server-dump_Windows_arm64.zip",
             "bin": [
                 "mcp-server-dump.exe"
             ],
-            "hash": "bb1a0069029ec052b1c1dfe85e79238271754f1d7d661fb629b81163756b132d"
+            "hash": "b72ac2d769c214c96825e06549c2d739ed046bf22eda1038e9f2e109ee9e3b4a"
         }
     },
     "homepage": "https://github.com/spandigital/mcp-server-dump",
